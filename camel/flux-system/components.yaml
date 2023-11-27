@@ -28,9 +28,9 @@ spec:
     departmentCode: 2
     alpha:
       values:
-        replicaCount: 2
+        replicaCount: 1
     bravo:
       values:
-        replicaCount: 2
+        replicaCount: 4
     charlie:
       enabled: true
