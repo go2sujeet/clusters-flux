@@ -29,7 +29,7 @@ tasks:
     #   --personal
     cmds:
       - task: install
-      - task: bootstrap-git-secret
+      # - task: bootstrap-git-secret
       - task: camel:apply
   
   bootstrap-git-secret:
