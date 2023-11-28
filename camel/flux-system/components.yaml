@@ -28,7 +28,7 @@ spec:
     departmentCode: 2
     alpha:
       values:
-        replicaCount: 1
+        replicaCount: 5
     bravo:
       values:
         replicaCount: 4
