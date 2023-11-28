@@ -15,11 +15,11 @@ patches:
     patch: |
       - op: replace
         path: /spec/values/replicaCount
-        value: 2
+        value: 1
   - target:
       name: bravo
       kind: HelmRelease
     patch: |
       - op: replace
         path: /spec/values/replicaCount
-        value: 3
+        value: 1
